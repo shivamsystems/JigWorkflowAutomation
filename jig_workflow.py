@@ -1,11 +1,4 @@
 
----
-
-### File 2: `jig_workflow.py` (Clean, Spaced, and Readable)
-I have expanded the code, added proper line breaks between functions, and added clear comments so you can actually read and understand the logic flow.
-
-```python
-#!/usr/bin/env python3
 """
 ===============================================================
   JIG WORKFLOW AUTOMATION v3 — FINAL
